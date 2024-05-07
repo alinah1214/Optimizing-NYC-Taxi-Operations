@@ -5,7 +5,7 @@ The primary objective of this study is to assist NYC taxi services in enhancing 
 
 ### Data Sources
 The dataset used for this analysis are:
-- TripData.Xlsx
+- TripData.xlsx
 - TripFare.xlsx
 
 ### Tools Used
